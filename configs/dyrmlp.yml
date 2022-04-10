@@ -1,0 +1,12 @@
+model: 'dyr'
+embed_dim: 100
+hid_dim: 200
+candidate_nums: [80, 40, 0]
+weight_base: 4
+iter_num: 1
+rel_diff: True
+alpha: 0.1
+epsilon: 1e-19
+dropout: 0.3
+reflect: False
+measure_relation: True

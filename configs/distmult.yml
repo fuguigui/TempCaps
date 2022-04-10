@@ -1,0 +1,5 @@
+model: 'distmult'
+embed_dim: 100
+dropout: 0.4
+hid_dim: -1
+measure_relation: False

@@ -1,0 +1,3 @@
+model: 'simple'
+embed_dim: 100
+dropout: 0.4

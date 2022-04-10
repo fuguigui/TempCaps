@@ -1,0 +1,4 @@
+model: 'rgcn'
+hid_dim: 500
+num_bases: 100
+dropout: 0.2

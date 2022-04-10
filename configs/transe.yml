@@ -1,0 +1,4 @@
+model: 'transe'
+embed_dim: 100
+dropout: 0.4
+hid_dim: -1

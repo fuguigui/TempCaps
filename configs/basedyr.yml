@@ -1,0 +1,13 @@
+model: 'basedyr'
+base_model: 'distmult'
+embed_dim: 100
+hid_dim: -1
+candidate_nums: [80, 40, 0]
+weight_base: 9
+iter_num: 1
+rel_diff: True
+alpha: 0.1
+epsilon: 1e-19
+dropout: 0.3
+reflect: True
+measure_relation: True
